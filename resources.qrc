@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>C:/Users/MICHAEL/Documents/Programming files/RACEER/Topdown_vehicle_sprites_pack/Black_viper.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>C:/Users/MICHAEL/Pictures/LifeFrame/1.jpg</file>
+        <file>C:/Users/MICHAEL/Pictures/LifeFrame/2.jpg</file>
+        <file>C:/Users/MICHAEL/Pictures/LifeFrame/3.jpg</file>
+    </qresource>
+</RCC>
